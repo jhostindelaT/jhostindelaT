@@ -1,5 +1,5 @@
-- 👋 Hola :D mi nombre es jhostin
-- 👀 Me interesa el codigo c# y lo que tenga que ver con asp.net
+-  hola, mi nombre es jhostin missael cruz traña.
+-  Me interesa el desarrollo de de programas de autoayuda personal
 
 
 <!---
