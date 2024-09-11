@@ -3,7 +3,9 @@
 <p align="center">  
   <img src="https://avatars.githubusercontent.com/u/88559899?v=4" alt="Jhostin Missael Cruz Traña" width="150"/>
 </p>
-hola
+<p aling="center">
+  hola que tal
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhostindelaT&layout=compact&hide_title=true&theme=radical" alt="Top Languages"/>
 </p>
