@@ -1,8 +1,22 @@
 # Hi there, I'm Jhostin Missael Cruz Traña
 
-<!-- Profile Picture -->
-<p align="center">  
-  <img src="https://avatars.githubusercontent.com/u/88559899?v=4" alt="Jhostin Missael Cruz Traña" width="150"/>
+<!-- Profile Picture and Description in Two Columns -->
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <!-- Profile Picture -->
+        <img src="https://avatars.githubusercontent.com/u/88559899?v=4" alt="Jhostin Missael Cruz Traña" width="150"/>
+      </td>
+      <td>
+        <!-- Description -->
+        <p>
+          <strong>👋 Hola, ¿qué tal? Soy Jhostin Cruz. 😊</strong><br>
+          Soy un creador de realidades digitales, un desarrollador full stack freelance que convierte ideas en experiencias memorables. 🌟🚀 Con habilidades en <strong>Python 🐍</strong>, <strong>JavaScript 💻</strong>, <strong>PHP 🔧</strong> y <strong>C# 💼</strong>, y la destreza en <strong>React ⚛️</strong>, <strong>Bootstrap 🧩</strong> y <strong>Tailwind 🌬️</strong>, diseño soluciones que no solo cumplen, sino que superan expectativas. 💡🔥 Cada proyecto es una oportunidad para construir algo extraordinario. 🎯✨
+        </p>
+      </td>
+    </tr>
+  </table>
 </p>
 
 <!-- Stats in Two Columns -->
