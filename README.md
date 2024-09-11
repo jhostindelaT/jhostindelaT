@@ -6,7 +6,6 @@
     <tr>
       <td>
         <!-- Profile Picture -->
-        <img src="https://avatars.githubusercontent.com/u/88559899?v=4" alt="Jhostin Missael Cruz Traña" width="150"/>
       </td>
       <td>
         <!-- Description -->
