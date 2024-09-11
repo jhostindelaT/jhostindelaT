@@ -3,7 +3,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/jhostindelaT?v=4" alt="Jhostin Missael Cruz Traña" width="150"/>
+  <img src="https://avatars.githubusercontent.com/u/88559899?v=4" alt="Jhostin Missael Cruz Traña" width="150"/>
 </p>
 
 <!-- GitHub Stats -->
